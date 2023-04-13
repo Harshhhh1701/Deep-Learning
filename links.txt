@@ -1,0 +1,4 @@
+https://github.com/mnielsen/neural-networks-and-deep-learning/tree/master/src
+
+
+https://androidkt.com/split-data-set-into-train-and-test-set-using-keras-image_dataset_from_directory-folder/
