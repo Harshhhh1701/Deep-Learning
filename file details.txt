@@ -1,0 +1,60 @@
+https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/src/network2.py
+
+
+
+
+
+
+lab1-nothing that important
+lab1_1-image binary classifier
+lab2-tensor operations,implement a perceptron for a simple adder circuit
+lab3-
+
+Change learning rate (very low very high)
+
+Change number of neurons in hidden layer
+
+Remove hidden layer and check accuracy
+
+DL_LAB3_20BRS1197-
+Network.py training the network using SGD algorithm
+
+DL_LAB_5-Visualize vanishing gradient.
+Create network with ReLU. (network.py replace it with ReLU).
+
+DL_LAB_6-Create a neural network model for the below given figures and display the summary using keras.
+Implement a Cross-entropy loss function for previous model.
+Implement a leaky ReLU logic using network.py
+Plot the gradient of each layer in the neural network you created (Sigmoid, ReLU) and interpret the results.
+
+DL_LAB_7+8
+L2 regularization using tensorflow playground with rate of 0.01
+Try network.py with cross-entropy, L2 regularization.
+visualising hyper parameter tuning
+Try L1 regularization with network2.py
+Mean = 0 and SD = 1
+
+
+
+
+DL_LAB9
+GoogLeNet Implementation for any dataset of your choice
+Visualizing 1*1 conv
+Visualizing Batch Normalization
+
+
+DL_LAB10
+Use VGG16 for image classification.
+Visualizing the kernel filters.
+Visualizing feature maps.
+
+
+LAB11 RESNET
+
+LAB_12
+LSTM FOR stock prediction
+
+
+LAB_13
+autoencoders
+image denoising
